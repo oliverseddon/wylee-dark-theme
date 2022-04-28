@@ -2,7 +2,7 @@
     "name": "wylee-dark-theme",
     "displayName": "Wylee Dark Theme",
     "description": "VS Code Dark theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Wylee",
     "engines": {
         "vscode": "^1.66.0"
@@ -12,10 +12,10 @@
         "url": "https://github.com/oliverseddon/wylee-dark-theme"
     },
     "keywords": [
-      "theme",
-      "dark theme",
-      "wylee",
-      "wylee dark theme"  
+        "theme",
+        "dark theme",
+        "wylee",
+        "wylee dark theme"
     ],
     "categories": [
         "Themes"
