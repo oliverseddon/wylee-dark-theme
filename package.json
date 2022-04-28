@@ -2,7 +2,7 @@
     "name": "wylee-dark-theme",
     "displayName": "Wylee Dark Theme",
     "description": "VS Code Dark theme",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "Wylee",
     "engines": {
         "vscode": "^1.66.0"
