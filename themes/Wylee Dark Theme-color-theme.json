@@ -1948,7 +1948,7 @@
     "editorError.foreground": "#f48771",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#cca700",
+    "editorWarning.foreground": "#FFCCCC",
     "editorWarning.background": "#A9904000",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#75beff",
